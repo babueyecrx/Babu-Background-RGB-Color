@@ -1,0 +1,42 @@
+{
+  "extName": {
+    "message": "Arc-en-ciel Couleur"
+  } ,
+  "extDescription": {
+    "message": "configurer la couleur du texte, la couleur de fond"
+  } ,
+  "extShortName": {
+    "message": "configurer la couleur "
+  } ,
+  "labelClose": {
+    "message": ""
+  } ,
+  "labelEnable": {
+    "message": "Activer"
+  } ,
+  "labelDisable": {
+    "message": "Désactiver"
+  } ,
+  "labelFontColorPicker": {
+    "message": "couleur du texte"
+  } ,
+  "labelBGColorPicker": {
+    "message": "couleur de fond"
+  } ,
+    "textSaveItem": {
+    "message": "Ajouter à la liste"
+  } ,
+  "labelOptionList": {
+    "message": "Liste :"
+  } ,
+  "textSelected": {
+    "message": "Sélectionné"
+  } ,
+  "textStyle": {
+    "message": "scheme"
+  } ,
+   
+  "textDeleteItem": {
+    "message": "Supprimer"
+  }
+}

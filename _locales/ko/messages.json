@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "배경 색상",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "브라우저를 위한 원본 색깔, 배경 색깔. 눈을 보호",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "브라우저 색상",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "ON",
+    "description": "On"
+  },
+
+  "labelDisable": {
+    "message": "OFF",
+    "description": "Off"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "전경",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "배경",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "추가",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "목록:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "선택한",
+    "description": "Selected"
+  }, 
+
+  "textStyle": {
+    "message": " 선택 ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "제거",
+    "description": "Remove"  
+  }
+  
+}

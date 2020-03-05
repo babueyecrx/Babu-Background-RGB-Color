@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "Boja Web stranice",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "Boja teksta, boja Web stranice za pregleda\u010d. \u0160titi tvoje oko",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "Boje pregleda\u010da",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "Otvorena",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "Zatvori",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "Tekst",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Nazad",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "Dodavanje",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Tema:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "Izabrana",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " izbor ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Uklonite",
+        "description": "Remove"
+    }
+}

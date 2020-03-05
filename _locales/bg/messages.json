@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "Цвят на фона",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "Цвят на текста, цвят на фона за браузъра. Защитете окото",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "Цвят на браузъра",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "на",
+    "description": "Open"
+  },
+
+  "labelDisable": {
+    "message": "от",
+    "description": "Close"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "рецепция",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "обратно",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "Добавите",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "Списък:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "активни",
+    "description": "active"
+  }, 
+
+  "textStyle": {
+    "message": " избор ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "Премахнете",
+    "description": "Remove"  
+  }
+  
+}

@@ -1,0 +1,43 @@
+{
+  "extName": {
+    "message": "Babu Background RGB Color",
+    "description": "name for extension"
+  },
+  "extDescription": {
+    "message": "Care for your eyes. Easy change Text color，background color for browser. Relax and Protect your eye",
+    "description": "name for extension discription"
+  },
+  "extShortName": {
+    "message": "Background Color"
+  },
+  "labelEnable": {
+    "message": "Enable"  
+  },
+  "labelDisable": {
+    "message": "Disable"  
+  },    
+  "labelFontColorPicker": {
+    "message": "Text"
+  },
+  "labelBGColorPicker": {
+    "message": "Background"
+  },
+    "textSaveItem": {
+    "message": "Add"  
+  },
+  "labelOptionList": {
+    "message": "THEMES:"
+  }, 
+  "textSelected": {
+    "message": "Selected"
+  }, 
+  "textStyle": {
+    "message": " Theme "
+  },   
+   
+  "textDeleteItem": {
+    "message": "Remove"  
+  }
+
+  
+}

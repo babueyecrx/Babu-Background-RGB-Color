@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "สีพื้นหลัง",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "ข้อความสี สีพื้นหลังสำหรับเบราว์เซอร์ ปกป้องสายตาของคุณ",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "สีของเบราว์เซอร์",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "บน",
+    "description": "On"
+  },
+
+  "labelDisable": {
+    "message": "ปิด",
+    "description": "Off"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "ด้านหน้า",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "ย้อนกลับ",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "เพิ่ม",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "รายการ:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "ใช้งานอยู่",
+    "description": "active"
+  }, 
+
+  "textStyle": {
+    "message": " เลือก ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "เอา",
+    "description": "Remove"  
+  }
+  
+}

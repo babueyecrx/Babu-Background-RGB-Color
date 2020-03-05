@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "\u0bb5\u0bb2\u0bc8 \u0baa\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bb5\u0ba3\u0bcd\u0ba3\u0bae\u0bcd",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "\u0b89\u0bb0\u0bc8 \u0bb5\u0ba3\u0bcd\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc8 \u0b89\u0bb2\u0bbe\u0bb5\u0bbf. \u0b95\u0ba3\u0bcd\u0b95\u0bb3\u0bc8 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0b95\u0bcd\u0b95",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "\u0b89\u0bb2\u0bbe\u0bb5\u0bbf \u0bb5\u0ba3\u0bcd\u0ba3\u0bae\u0bcd",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "\u0bae\u0bc2\u0b9f\u0bc1",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "\u0b89\u0bb0\u0bc8",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "\u0bae\u0bc0\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "\u0b9a\u0bc7\u0bb0\u0bcd",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "\u0b95\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "\u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " \u0ba4\u0bc7\u0bb0\u0bcd\u0bb5\u0bc1 ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "\u0ba8\u0bc0\u0b95\u0bcd\u0b95\u0bc1",
+        "description": "Remove"
+    }
+}

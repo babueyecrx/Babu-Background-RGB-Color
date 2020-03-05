@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "Web sida f\u00e4rg",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "Text och webbsida f\u00e4rger f\u00f6r webbl\u00e4saren. Skydda \u00f6gonen",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "Webbl\u00e4sarens f\u00e4rg",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "\u00d6ppna",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "St\u00e4ng",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "Text",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Tillbaka",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "L\u00e4gg till",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Tema:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "Utvalda",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " val ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Ta bort",
+        "description": "Remove"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "Spletni strani barve",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "Barva besedila, spletne strani barve za brskalnik. Za\u0161\u010dito o\u010di",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "Barve brskalnika",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "Odprta",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "Blizu",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "Besedilo",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Nazaj",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "Dodaj",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Tema:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "Izbrani",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " izbira ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Odstrani",
+        "description": "Remove"
+    }
+}

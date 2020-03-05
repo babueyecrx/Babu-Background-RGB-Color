@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "Color de fons",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "Color de text, color de fons per al navegador. Protegir l'ull",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "Color de navegador",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "En",
+    "description": "On"
+  },
+
+  "labelDisable": {
+    "message": "Fora",
+    "description": "Off"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "frontal",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "esquena",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "Afegir",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "Llista:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "actiu",
+    "description": "active"
+  }, 
+
+  "textStyle": {
+    "message": " elecció ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "Treure",
+    "description": "Remove"  
+  }
+  
+}

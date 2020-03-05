@@ -1,0 +1,43 @@
+{
+  "extName": {
+    "message": "Babu Barva pozadí",
+    "description": "name for extension"
+  },
+  "extDescription": {
+    "message": "Péče o oči. Snadná změna Barva textu, barva pozadí prohlížeče. Relaxujte a ochraňujte oko",
+    "description": "name for extension discription"
+  },
+  "extShortName": {
+    "message": "Barva pozadí"
+  },
+  "labelEnable": {
+    "message": "Umožnit"  
+  },
+  "labelDisable": {
+    "message": "Zakázat"  
+  },    
+  "labelFontColorPicker": {
+    "message": "Text"
+  },
+  "labelBGColorPicker": {
+    "message": "Pozadí"
+  },
+    "textSaveItem": {
+    "message": "Přidat"  
+  },
+  "labelOptionList": {
+    "message": "TÉMATA:"
+  }, 
+  "textSelected": {
+    "message": "Vybraný"
+  }, 
+  "textStyle": {
+    "message": " Téma "
+  },   
+   
+  "textDeleteItem": {
+    "message": "Odstranit"  
+  }
+
+  
+}

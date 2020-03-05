@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "لون الخلفية",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "لون النص ، لون الخلفية للمتصفح. احم عينك",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "لون المستعرض",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "تمكين",
+    "description": "Enable"
+  },
+
+  "labelDisable": {
+    "message": "تعطيل",
+    "description": "Disable"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "امام",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "عوده",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "أضافه",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "قائمه:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "محدد",
+    "description": "Selected"
+  }, 
+
+  "textStyle": {
+    "message": " اختيار ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "أزاله",
+    "description": "Remove"  
+  }
+  
+}

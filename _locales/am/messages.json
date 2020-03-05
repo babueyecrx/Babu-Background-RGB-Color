@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "ዳራ ቀለም",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "የጽሑፍ ቀለም, የጀርባ ቀለም ለአሳሽ. ዓይንዎን ይጠብቁ",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "የአሳሽ ቀለም",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "ክፈት",
+    "description": "Open"
+  },
+
+  "labelDisable": {
+    "message": "ገጠመ",
+    "description": "Close"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "ፊት",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "ጀርባ",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "አክል",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "ዝርዝር:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "ገባሪ",
+    "description": "active"
+  }, 
+
+  "textStyle": {
+    "message": " ምርጫ ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "አስወግድ",
+    "description": "Remove"  
+  }
+  
+}

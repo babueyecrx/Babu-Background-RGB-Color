@@ -1,0 +1,42 @@
+{
+  " extName " : {
+    " message": " configurer la couleur" 
+  } ,
+  " extDescription ": {
+    "message": "configurer la couleur du texte, la couleur de fond "
+  } ,
+  " extShortName ": {
+    " message": " configurer la couleur "
+  } ,
+  " labelClose " : {
+    "message": "Fermer"
+  } ,
+  " labelEnable ": {
+    "message": "Activer"
+  } ,
+  " labelDisable ": {
+    "message": "Désactiver"
+  } ,
+  " labelFontColorPicker ": {
+    " message": "la couleur du texte"
+  } ,
+  " labelBGColorPicker ": {
+    "message": "la couleur de fond"
+  } ,
+    " textSaveItem ": {
+    " message": " Ajouter à la liste"
+  } ,
+  " labelOptionList ": {
+    "message": "Liste"
+  } ,
+  " textSelected ": {
+    "message": "Sélectionné"
+  } ,
+  " textStyle " : {
+    " message": "scheme"
+  } ,
+   
+  " textDeleteItem ": {
+    "message": "Supprimer"
+  },
+}

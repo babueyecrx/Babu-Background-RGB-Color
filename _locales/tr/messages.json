@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "Web sayfa rengi",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "Metin rengi, Web sayfas\u0131 renkli taray\u0131c\u0131 i\u00e7in. G\u00f6z\u00fcn\u00fc koru",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "Taray\u0131c\u0131 renk",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "A\u00e7\u0131k",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "Kapat",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "Metin",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Geri",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "Ekle",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Tema:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "Se\u00e7ili",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " se\u00e7im ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Kald\u0131r",
+        "description": "Remove"
+    }
+}

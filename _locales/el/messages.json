@@ -1,0 +1,66 @@
+{
+  "extName": {
+    "message": "Χρώμα φόντου",
+    "description": "Background Color"
+  },
+
+  "extDescription": {
+    "message": "Χρώμα κειμένου, χρώμα φόντου για το πρόγραμμα περιήγησης. Προστασία των ματιών σας",
+    "description": "Text color，background color for browser. Protect your eye"
+  },
+
+  "extShortName": {
+    "message": "Μηχανή αναζήτησης χρώμα",
+    "description": "Browser Color"
+  },
+
+  "labelClose": {
+    "message": ""  
+  },
+
+  "labelEnable": {
+    "message": "Ανοίξτε",
+    "description": "Open"
+  },
+
+  "labelDisable": {
+    "message": "Κλείστε",
+    "description": "Close"  
+  }, 
+
+  "labelFontColorPicker": {
+    "message": "εμπρός",
+    "description": "front"    
+  },
+
+  "labelBGColorPicker": {
+    "message": "πίσω",
+    "description": "back"
+  },
+
+  "textSaveItem": {
+    "message": "Προσθέστε",
+    "description": "Add"
+  },
+
+  "labelOptionList": {
+    "message": "Λίστα:",
+    "description": "List:"
+  }, 
+
+  "textSelected": {
+    "message": "Επιλεγμένο",
+    "description": "Selected"
+  }, 
+
+  "textStyle": {
+    "message": " επιλογή ",
+    "description": "choice"    
+  },   
+   
+  "textDeleteItem": {
+    "message": "Κατάργηση",
+    "description": "Remove"  
+  }
+  
+}

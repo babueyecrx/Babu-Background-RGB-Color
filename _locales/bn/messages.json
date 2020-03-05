@@ -1,0 +1,43 @@
+{
+  "extName": {
+    "message": "পেছনের রং",
+    "description": "name for extension"
+  },
+  "extDescription": {
+    "message": "আপনার চোখ জন্য যত্ন। সহজ পরিবর্তন টেক্সট রঙ, ব্রাউজারের জন্য ব্যাকগ্রাউন্ড রঙ। শান্ত এবং আপনার চোখ রক্ষা করুন",
+    "description": "name for extension discription"
+  },
+  "extShortName": {
+    "message": "পেছনের রং"
+  },
+  "labelEnable": {
+    "message": "সক্ষম করা"  
+  },
+  "labelDisable": {
+    "message": "অক্ষম"  
+  },    
+  "labelFontColorPicker": {
+    "message": "পাঠ"
+  },
+  "labelBGColorPicker": {
+    "message": "পটভূমি"
+  },
+    "textSaveItem": {
+    "message": "যোগ"  
+  },
+  "labelOptionList": {
+    "message": "থিমস:"
+  }, 
+  "textSelected": {
+    "message": "নির্বাচিত"
+  }, 
+  "textStyle": {
+    "message": " বিষয় "
+  },   
+   
+  "textDeleteItem": {
+    "message": "অপসারণ"  
+  }
+
+  
+}

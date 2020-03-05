@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8"></meta>
+  <!--switch button-->
+  <link href="bootstrap-switch-master/docs/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="bootstrap-switch-master/dist/css/bootstrap3/bootstrap-switch.css" rel="stylesheet" type="text/css" />
+  <!--color picker-->
+  <link href="color_picker_master/css/colpick.css" rel="stylesheet" type="text/css" />
+  <!--buttons bootcss-->
+  <link href="buttons_bootcss/buttons.css" rel="stylesheet" type="text/css" />
+  <!-- Font-Awesome -->
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link href="popup.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div align="right">
+    <label for="close" id="labelClose"></label>
+    <img class="close-image" id="close" src="imgs/close.png" />
+  </div>
+
+  <div align="center">
+    <input type="checkbox" id="enableSwitchButton" checked="" />
+  </div>
+
+  <hr />
+
+
+  <div id="mainPart" style="display:block">
+
+
+    <div align="left" id="pickerPart">
+      <label for="fontColorPicker" id="no-labelFontColorPicker">
+        <span class="glyphicon glyphicon-font" aria-hidden="true"></span>
+      </label>
+      <p></p>
+      <p id="fontColorPicker" class="button button-pill button-large"></p>
+
+      <p></p>
+
+      <label for="BGColorPicker" id="no-labelBGColorPicker">
+        <span class="glyphicon glyphicon-stop" aria-hidden="true"></span>
+      </label>
+      <p></p>
+      <p id="BGColorPicker" class="button button-pill button-large"></p>
+    </div>
+
+    <p></p>
+    <div align="right">
+      <button id="saveItem" class="button button-pill  button-normal"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+      </button>
+    </div>
+
+    <hr />
+
+<!--     <label for="mySelect" id="labelMySelect"></label>
+ -->    <select id="mySelect" size="3" style="width:100%;height:25%"> </select>
+
+
+    <div align="right">
+      <button id="deleteItem" class="button button-pill  button-normal"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>      
+    </div>
+
+
+
+  </div>
+
+
+  <div id="rightPart" align="center" style="display:none">
+    <br>
+    <a class="btn btn-warning" href="https://chrome.google.com/webstore/detail/babu-soft-gray-eye-protec/hobpbmcamljoikiiajiopaognabcoceh"  target="_blank">Soft Gray Eye Protector</a>
+    <br><br><br>    
+  </div>
+
+  <footer>
+    <!--jquery-->
+    <script type="text/javascript" src="jquery/jquery-1.11.3.min.js"></script>
+    <!--switch button-->
+    <script type="text/javascript" src="bootstrap-switch-master/docs/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bootstrap-switch-master/dist/js/bootstrap-switch.js"></script>
+    <!--color picker-->
+    <script type="text/javascript" src="color_picker_master/js/colpick.js"></script>
+    <!--buttons bootcss-->
+    <script type="text/javascript" src="buttons_bootcss/buttons.js"></script>
+
+    <script type="text/javascript" src="mylib.js"></script>
+    <script type="text/javascript" src="popup.js"></script>
+  </footer>
+</body>
+
+</html>

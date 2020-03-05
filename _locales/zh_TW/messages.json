@@ -1,0 +1,46 @@
+{
+  "extName": {
+    "message": "天弓取色器",
+    "description": "name for extension"
+  },
+  "extDescription": {
+    "message": "瀏覽器文字，背景顏色設置，保護眼睛",
+    "description": "name for extension discription"
+  },
+  "extShortName": {
+    "message": "瀏覽器顏色設置"
+  },
+  "labelClose": {
+    "message": ""  
+  },
+  "labelEnable": {
+    "message": "開啓"  
+  },
+  "labelDisable": {
+    "message": "禁用"  
+  },    
+  "labelFontColorPicker": {
+    "message": "前景"
+  },
+  "labelBGColorPicker": {
+    "message": "背景"
+  },
+    "textSaveItem": {
+    "message": "存入列表"  
+  },
+  "labelOptionList": {
+    "message": "列表:"
+  },
+  "textSelected": {
+    "message": "選中"
+  }, 
+  "textStyle": {
+    "message": " 樣式 "
+  },   
+   
+  "textDeleteItem": {
+    "message": "刪除"  
+  }
+
+  
+}

@@ -1,0 +1,54 @@
+{
+    "extName": {
+        "message": "Navegador Color",
+        "description": "Background Color"
+    },
+    "extDescription": {
+        "message": "Color del texto, color de fondo para navegador. Proteger el ojo",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "Color de fondo",
+        "description": "Background Color"
+    },
+    "labelClose": {
+        "message": "",
+        "description": "Close"
+    },
+    "labelEnable": {
+        "message": "Abierto",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "Cerrar",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "frente",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Atr\u00e1s",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "A\u00f1adir",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Lista:",
+        "description": "List:"
+    },
+    "textSelected": {
+        "message": "Seleccionado",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " opci\u00f3n ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Quitar",
+        "description": "Remove"
+    }
+}

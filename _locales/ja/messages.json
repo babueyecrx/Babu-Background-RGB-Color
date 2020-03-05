@@ -1,0 +1,46 @@
+{
+  "extName": {
+    "message": "ページの色",
+    "description": "name for extension"
+  },
+  "extDescription": {
+    "message": "テキスト、背景色の設定",
+    "description": "name for extension discription"
+  },
+  "extShortName": {
+    "message": "着色"
+  },
+  "labelClose": {
+    "message": ""  
+  },
+  "labelEnable": {
+    "message": "有効にします"  
+  },
+  "labelDisable": {
+    "message": "無効にします"  
+  },    
+  "labelFontColorPicker": {
+    "message": "テキストの色"
+  },
+  "labelBGColorPicker": {
+    "message": "背景"
+  },
+    "textSaveItem": {
+    "message": "リストに追加"  
+  },
+  "labelOptionList": {
+    "message": "リスト："
+  }, 
+  "textSelected": {
+    "message": "選択"
+  }, 
+  "textStyle": {
+    "message": "スキーム"
+  },   
+   
+  "textDeleteItem": {
+    "message": "削除"  
+  }
+
+  
+}

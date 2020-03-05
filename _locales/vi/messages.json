@@ -1,0 +1,50 @@
+{
+    "extName": {
+        "message": "M\u00e0u s\u1eafc trang web",
+        "description": "Web Page Color"
+    },
+    "extDescription": {
+        "message": "M\u00e0u ch\u1eef, m\u00e0u s\u1eafc trang Web cho tr\u00ecnh duy\u1ec7t. B\u1ea3o v\u1ec7 m\u1eaft c\u1ee7a b\u1ea1n",
+        "description": "Text color\uff0cbackground color for browser. Protect your eye"
+    },
+    "extShortName": {
+        "message": "M\u00e0u s\u1eafc tr\u00ecnh duy\u1ec7t",
+        "description": "Browser Color"
+    },
+    "labelEnable": {
+        "message": "M\u1edf c\u1eeda",
+        "description": "Open"
+    },
+    "labelDisable": {
+        "message": "\u0110\u00f3ng",
+        "description": "Close"
+    },
+    "labelFontColorPicker": {
+        "message": "V\u0103n b\u1ea3n",
+        "description": "front"
+    },
+    "labelBGColorPicker": {
+        "message": "Tr\u1edf l\u1ea1i",
+        "description": "back"
+    },
+    "textSaveItem": {
+        "message": "Th\u00eam",
+        "description": "Add"
+    },
+    "labelOptionList": {
+        "message": "Ch\u1ee7 \u0111\u1ec1:",
+        "description": "Theme:"
+    },
+    "textSelected": {
+        "message": "L\u1ef1a ch\u1ecdn",
+        "description": "Selected"
+    },
+    "textStyle": {
+        "message": " s\u1ef1 l\u1ef1a ch\u1ecdn ",
+        "description": "choice"
+    },
+    "textDeleteItem": {
+        "message": "Lo\u1ea1i b\u1ecf",
+        "description": "Remove"
+    }
+}

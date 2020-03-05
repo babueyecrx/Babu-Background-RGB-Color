@@ -1,0 +1,37 @@
+How to use:
+
+1. 
+Click the foreground / background button, with mouse dragging, page color will change in real-time.
+
+So you can adjust and adjust ... until you find out the best color.
+
+2.
+"Add to List" button to save a color scheme for future convenience.
+
+3. 
+"Remove" button to delete a scheme.
+
+4.
+"Disable" Switch will restore page color to its original.
+"Enable" to work again.
+
+5.Recently used scheme will play affect each time the switch "Enabled".
+
+
+
+                  使用指南　
+
+1. 點擊 前景(文字)顏色 或 背景顏色 按鈕, 彈出的方塊裡拖動鼠標，網頁顏色將實時變化
+
+2. "開啓/禁用"　開關。   "禁用"  使網頁恢復原來顏色。
+
+3. 每當開啓功能，最近一次的樣式會起作用。
+
+4. 未來(或刷新後)的網頁，顏色都會被設置成指定的樣子。
+
+5. 過去的網頁，暫時還是原來的顏色。
+但只要點一下 地址欄右側的　‘色’　圖標，新樣式會生效。
+
+6. 可以保存新樣式到列表，方便快捷選取。
+
+7. 可以刪除列表中的樣式。
